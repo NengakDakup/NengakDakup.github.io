@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Nengaks Page
 
-You can use the [editor on GitHub](https://github.com/NengakDakup/NengakDakup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is where all my coding projects will be, so feel free to come about any time and see any of my projects...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+you can contact me on facebook[link](facebook.com/wisdom.dakup) and whatsapp(07057325184), follow me on instagram[link](instagram.com/nengakdakup), and on twitter[link]()
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are the lists of my latest upcoming projects...
 
-```markdown
-Syntax highlighted code block
+**bold**Note...they are all upcoming
 
-# Header 1
-## Header 2
-### Header 3
+- First Person Shooter game in css
+- My official website
 
-- Bulleted
-- List
+for me details, chat me up on any of my social media lonks above
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NengakDakup/NengakDakup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Nenosoft
