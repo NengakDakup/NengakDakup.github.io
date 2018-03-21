@@ -8,7 +8,7 @@ you can contact me on [facebook](facebook.com/wisdom.dakup) and whatsapp(0705732
 
 Here are the lists of my latest upcoming projects...
 
-**bold**Note...they are all upcoming
+**Note**...they are all upcoming
 
 - First Person Shooter game in css
 - My official website
