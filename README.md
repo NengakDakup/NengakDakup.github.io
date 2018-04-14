@@ -10,7 +10,7 @@ Here are the lists of my latest upcoming projects...
 
 **Note**...they are all upcoming
 
-- First Person Shooter game in css
+- A todo list manager in javascript... 
 - My official website
 
 for me details, chat me up on any of my social media lonks above
